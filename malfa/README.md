@@ -28,3 +28,7 @@ baskasinda olmuyomu
 ```
 
 `rgb(dokun, bakiyim)`
+
+@1zardoz1
+
+
