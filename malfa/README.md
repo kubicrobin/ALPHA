@@ -29,6 +29,10 @@ baskasinda olmuyomu
 
 `rgb(dokun, bakiyim)`
 
-@1zardoz1
+```
+git durumu
+git ekle
+git taahhüt
+```
 
 
