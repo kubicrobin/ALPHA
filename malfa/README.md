@@ -15,3 +15,9 @@
 kullanalim `git status`
 
 `bunlarada bakalim`
+
+```
+
+git lan
+
+```
