@@ -11,3 +11,5 @@
 - **deneme yazilari**
 
 >deneme yazilari
+
+kullanalim `git status`
