@@ -21,3 +21,8 @@ kullanalim `git status`
 git lan
 
 ```
+```
+
+baskasinda olmuyomu
+
+```
