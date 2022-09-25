@@ -13,3 +13,5 @@
 >deneme yazilari
 
 kullanalim `git status`
+
+`bunlarada bakalim`
