@@ -1,33 +1,33 @@
-- *deneme yazilari*
+- *try someting*
 
-- **deneme yazilari**
+- **try someting**
 
-- **deneme _falan_ yazilari**
+- **try _and_ someting**
 
-- ~~bunada bakalim~~
+- ~~try something~~
 
-- ***deneme yazilari***
+- ***try something***
 
-- **deneme yazilari**
+- **try something**
 
->deneme yazilari
+>try something
 
-kullanalim `git status`
+usage `git status`
 
-`bunlarada bakalim`
-
-```
-
-git lan
-
-```
-```
-
-baskasinda olmuyomu
+`try something`
 
 ```
 
-`rgb(dokun, bakiyim)`
+git bib
+
+```
+```
+
+another trying
+
+```
+
+`rgb(touch, this)`
 
 ```
 git durumu
