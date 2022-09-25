@@ -26,3 +26,5 @@ git lan
 baskasinda olmuyomu
 
 ```
+
+`rgbdokunbakiyim`
