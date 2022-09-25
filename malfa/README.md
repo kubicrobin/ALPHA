@@ -27,4 +27,4 @@ baskasinda olmuyomu
 
 ```
 
-`rgbdokunbakiyim`
+`rgb(dokun, bakiyim)`
